@@ -12,6 +12,6 @@
       <!-- PREFIX USED FOR ALL DATA CHANGESETS -->
       <property name="DATA_ID_PREFIX" value="data" />
       <!-- PREFIX USED FOR ALL TABLES CHANGESETS -->
-      <property name="TABLES_ID_PREFIX" value="tables" />
+      <property name="TABLES_ID_PREFIX" value="table" />
        
 </databaseChangeLog>
